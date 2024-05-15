@@ -20,5 +20,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cpluspl
   <a href="https://instagram.com/maykon_wendel_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:maykonwendel29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-![Snak animaton](https://github.com/MaykonWendel/blob/output/github-contribuion-grid-snak.svg)
